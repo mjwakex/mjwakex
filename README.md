@@ -1,4 +1,4 @@
-### Hi there 👋
+### Waddup 👋
 
 <!--
 
@@ -11,5 +11,8 @@
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+- 🌱 I’m currently learning Python to a high level
+- 🤔 I’m looking for help with how to get more involved with AI
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mjwakex&theme=radical)](https://github.com/mjwakex/github-readme-stats)
