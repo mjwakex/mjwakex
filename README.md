@@ -12,7 +12,6 @@
 - ⚡ Fun fact: ...
 -->
 
-- 🌱 I’m currently learning Python to a high level
-- 🤔 I’m looking for help with how to get more involved with AI
+- 🌱 I’m currently learning the basics of Java
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mjwakex&theme=radical)](https://github.com/mjwakex/github-readme-stats)
