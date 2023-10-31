@@ -1,4 +1,4 @@
-### Waddup 👋
+### GLUTEN TAG 👋
 
 <!--
 
@@ -12,6 +12,6 @@
 - ⚡ Fun fact: ...
 -->
 
-- 🌱 I’m currently learning the basics of Java
+- 🌱 I’m currently learning the ins and outs of computational fundamentals and web development
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mjwakex&theme=radical)](https://github.com/mjwakex/github-readme-stats)
