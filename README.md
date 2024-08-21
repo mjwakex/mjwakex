@@ -14,6 +14,6 @@
 
 - 🌱 I’m currently learning the fundamentals of Computer Systems (C) and working on Advanced Programming Projects (Python & Haskell)
 - 🔭 I’m currently in my second year of a MSci for computer science at the University of St Andrews (2022-2027)
-- ⚡ Fun fact: You will see me be a strategist for an F1 team one day
+- ⚡ Fun fact: You will see me be a strategy engineer for an F1 team one day
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mjwakex&theme=radical)](https://github.com/mjwakex/github-readme-stats)
